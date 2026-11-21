@@ -1,63 +1,60 @@
-## Hi there 👋
-
 ### Hi there, I'm Poornima Devi M 👋
 
-**Electronics & Communication Engineer (B.E. ECE, SSN College of Engineering)** building at the intersection of **Data Engineering, AI/ML pipelines, and real-world software systems**.
-
-* 🛰️ Former Software Development Intern at **ISRO (URSC)** — automated Inter-Satellite Link (ISL) dataset processing and SNR/Path Loss simulation workflows using MATLAB.
-* ⚙️ Former Technical Trainee Intern at **Sniper Systems and Solutions** — optimized conversational logic, product research, and technical hand-off documentation.
-* 📊 Actively building **data pipelines, analytics systems, and full-stack/AI applications**—from real-time vision & sensor pipelines to medallion-style data architectures.
-* 📫 Reach me at **poornimadevimz@gmail.com** | [LinkedIn](https://www.linkedin.com/in/poornimadevi24/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=620&lines=Electronics+%26+Communication+Engineer;Data+%26+AI+Pipeline+Builder;MATLAB%2C+Python+%26+SQL+Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python 3, C++, JavaScript, TypeScript, SQL, HTML/CSS, MATLAB |
-| **Data & Backend** | ETL/ELT Pipelines, Dimensional/Star Modeling, SQL, MongoDB, PostgreSQL, Redis, Apache Kafka, Flask, Node.js, Express, Spring Boot |
-| **AI & Computer Vision** | OCR & Data Extraction, Real-Time Defect Detection, Predictive Analytics, LLM/AI API Integrations |
-| **Frontend & Mobile** | React Native, Expo, Next.js, HTML/CSS |
-| **DevOps & Tooling** | Git, GitHub, GitHub Actions, Docker, Linux, AWS (Basic), VS Code |
+I'm an Electronics & Communication Engineer (B.E. ECE, SSN College of Engineering)[cite: 1] passionate about turning raw data, signals, and real-world workflows into reliable software and analytics systems. During my internship at **ISRO (URSC)**, I engineered automated MATLAB computational workflows to process Inter-Satellite Link (ISL) datasets and simulate SNR and path loss[cite: 1], and I also gained hands-on experience optimizing logic and technical documentation at **Sniper Systems and Solutions**[cite: 1].
 
----
+My focus is on building high-integrity data pipelines, computer vision and OCR workflows, and practical end-to-end applications—while actively sharpening my data structures and algorithms on LeetCode, GeeksforGeeks, and HackerRank[cite: 1].
 
-### 🚀 Featured Projects & Highlights
+When I'm not coding or building data systems, I enjoy video editing, visual storytelling, and exploring new tech setups. I love the "aha!" moment when clean data or a smart algorithm solves a messy real-world problem.
 
-* **NeuroRide — End-to-End Ride-Hailing Data & AI Platform**
-  * Architecting a full-stack data and AI engineering system featuring a Medallion data architecture, Star Schema with SCD Type 2, PostgreSQL, Redis, Apache Kafka, Docker Compose, and observability/CI/CD workflows.
-* **Real-Time Solar Panel Damage Detection (Final Year Project — SSNCE)**
-  * Built an automated inspection pipeline to detect defects such as cracks and dust in real time, reaching **94% accuracy** and reducing reliance on manual checks.
-* **Automated OCR & Data Extraction Pipeline**
-  * Engineered an automated workflow to extract and structure text from unstructured records, turning manual financial data entry into a higher-integrity pipeline.
-* **Water Quality Monitoring & Predictive Analytics**
-  * Developed a sensor-driven monitoring and forecasting system designed to flag water safety trends and serve as an early warning tool.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornimadevi24/)
+[![GitHub](https://img.shields.io/badge/GitHub-poornimz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poornimz)
+[![Email](https://img.shields.io/badge/Email-poornimadevimz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornimadevimz@gmail.com)
 
 ---
 
-### 🏆 Experience & Problem Solving
+### 🔭 What I'm Currently Working On
 
-* **ISRO – U R Rao Satellite Centre (URSC)** *(Software Development Intern, Jul – Aug 2024)*: Built MATLAB computational models and algorithmic validation routines for Inter-Satellite Link (ISL) datasets, path loss, and SNR analysis.
-* **Sniper Systems and Solutions Pvt. Ltd.** *(Technical Trainee Intern, Jan 2025)*: Improved chatbot flow responsiveness and fault tolerance, conducted feasibility research, and authored technical specs.
-* **Competitive Coding & DSA**: Regularly practicing Data Structures & Algorithms on **LeetCode** ,**GeeksforGeeks** and **HackerRank** 
+* **NeuroRide**: Architecting an end-to-end ride-hailing data and AI engineering platform featuring a medallion data architecture, dimensional modeling, streaming, and observability.
+* **Real-Time Solar Panel Damage Detection (FYP)**: Built a defect detection pipeline (cracks, dust) at SSN College of Engineering achieving **94% accuracy**[cite: 1].
+* **OCR & Predictive Analytics Projects**: Engineered an automated OCR data extraction pipeline for unstructured financial records and a sensor-based water quality monitoring and predictive analytics system[cite: 1].
 
 ---
 
-### 📈 GitHub Stats
+### 🌱 Currently Learning
 
-![Poornima's GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight)<!--
-**poornimz/poornimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Data Engineering & Pipelines**: ETL/ELT workflows, dimensional data modeling, SQL/NoSQL databases, and streaming/distributed systems.
+* **AI Engineering & Cloud**: Practical AI/LLM integrations, containerization with Docker, CI/CD with GitHub Actions, and cloud fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skillset
+
+#### Languages & Core CS
+![Python](https://img.shields.io/badge/Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+#### Data, Backend & AI
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Web, Mobile & DevOps
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
