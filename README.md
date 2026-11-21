@@ -10,7 +10,7 @@ I'm an Electronics & Communication Engineer (B.E. ECE, SSN College of Engineerin
 
 My focus is on building high-integrity data pipelines, computer vision and OCR workflows, and practical end-to-end applications—while actively sharpening my data structures and algorithms on LeetCode, GeeksforGeeks, and HackerRank.
 
-When I'm not coding or building data systems, I enjoy video editing, visual storytelling, and exploring new tech setups. I love the "aha!" moment when clean data or a smart algorithm solves a messy real-world problem.
+When I'm not coding or building data systems, I enjoy reading books, video editing, storytelling, and exploring new tech setups. I love the "aha!" moment when I build, find, or discover something new in a related field.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornimadevi24/)
 [![GitHub](https://img.shields.io/badge/GitHub-poornimz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poornimz)
