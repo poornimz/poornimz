@@ -20,9 +20,9 @@ When I'm not coding or building data systems, I enjoy video editing, visual stor
 
 ### 🔭 What I'm Currently Working On
 
-* **NeuroRide**: Architecting an end-to-end ride-hailing data and AI engineering platform featuring a medallion data architecture, dimensional modeling, streaming, and observability.
-* **Real-Time Solar Panel Damage Detection (FYP)**: Built a defect detection pipeline (cracks, dust) at SSN College of Engineering achieving **94% accuracy**[cite: 1].
-* **OCR & Predictive Analytics Projects**: Engineered an automated OCR data extraction pipeline for unstructured financial records and a sensor-based water quality monitoring and predictive analytics system[cite: 1].
+* **Data Engineering & Analytics**: Building structured data pipelines, dimensional data models, and SQL/NoSQL data stores (PostgreSQL, MongoDB, Redis).
+* **Streaming & Backend Systems**: Working with event-driven messaging (Apache Kafka), Python/Node.js/Spring Boot services, and Dockerized environments.
+* **AI & Applied Engineering**: Developing computer vision, OCR/data extraction, predictive analytics, and AI-integrated software workflows[cite: 1].
 
 ---
 
