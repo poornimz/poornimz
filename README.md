@@ -8,7 +8,7 @@
 
 I'm an Electronics & Communication Engineer (B.E. ECE, SSN College of Engineering) passionate about turning raw data, signals, and real-world workflows into reliable software and analytics systems. During my internship at **ISRO (URSC)**, I engineered automated MATLAB computational workflows to process Inter-Satellite Link (ISL) datasets and simulate SNR and path loss, and I also gained hands-on experience optimizing logic and technical documentation at **Sniper Systems and Solutions**.
 
-My focus is on building high-integrity data pipelines, computer vision and OCR workflows, and practical end-to-end applications—while actively sharpening my data structures and algorithms on LeetCode, GeeksforGeeks, and HackerRank.
+My focus is on building high-integrity data pipelines, computer vision and OCR workflows, and practical end-to-end applications while actively sharpening my data structures and algorithms on LeetCode, GeeksforGeeks, and HackerRank.
 
 When I'm not coding or building data systems, I enjoy reading books, video editing, storytelling, and exploring new tech setups. I love the "aha!" moment when I build, find, or discover something new in a related field.
 
